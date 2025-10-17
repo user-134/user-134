@@ -1,5 +1,5 @@
 <h3>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" style="vertical-align:middle"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23" style="vertical-align:middle"/>
   Привет, я Артур!
 </h3>
 
@@ -11,7 +11,11 @@
 
 ---
 
-### 💡 О себе
+<h3>
+  <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" width="23" style="vertical-align:middle"/>
+  О себе
+</h3>
+
 
 🛠️ Учусь создавать и оптимизировать ETL-процессы, проектировать DWH и аналитические пайплайны.  
 🔥 Люблю упрощать сложные процессы и делать данные доступными для бизнеса.
